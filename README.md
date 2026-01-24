@@ -1,2 +1,3 @@
 # AO
-Atmospheric optics simulation toolkit: propagation through turbulence, phase screen generation, and intelligent wavefront recovery without Shack-Hartmann sensors
+Python library for modeling optical beam propagation in turbulent atmosphere and simulating wavefront sensor operation.
+
